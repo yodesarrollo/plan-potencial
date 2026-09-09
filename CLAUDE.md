@@ -128,6 +128,20 @@ Redespliegue = pegar + Implementar → Administrar → Editar → **Nueva versi�
   ~~`alexpueblag.github.io/potenciales-yod/portero.js`~~ **OBSOLETO desde 2026-09-01.** (commit `2d9c3b7`)
 - **2026-09-04** — Este `CLAUDE.md` se escribe por primera vez. *No existía; el README solo cubría
   el "cómo se opera", no el "por qué" ni lo obsoleto.*
+- **2026-09-09 · corrección de galera** — El copy de p0 y p5 se alinea con el producto real
+  (guía + acompañamiento mensual) y se agregan 6 claves nuevas: `p0_dolor`, `p5_qpasa_tit`,
+  `p5_qpasa_1..3`, `p5_riesgo`. Se corrige el placeholder del correo:
+  ~~"Tu correo (para enviarte el análisis)"~~ **OBSOLETO desde 2026-09-09** — prometía por escrito
+  el análisis que la landing tiene prohibido regalar. *Rama `galera-copy-9sep`.*
+  ⚠️ **Este cambio NO está completo hasta que el Sheet se actualice.** `p0_badge`, `p0_sub` y
+  `p0_cta` ya existen en `TEXTOS POTENCIAL` con el texto viejo, y el Sheet pisa al código: si se
+  publica el HTML sin tocar el Sheet, la página queda mezclada (bloques nuevos + subtítulo viejo
+  vendiendo el producto que ya no es). Las 6 claves nuevas sí se ven de inmediato porque el Sheet
+  todavía no las tiene y el respaldo del HTML aplica.
+- **2026-09-09 · en pausa, con dueño** — Dos cortes quedaron sin aplicar a propósito: el sello
+  `p0_t2` ("Cientos de miles de m²…") necesita un dato verificable de Alejandro, y la promesa de
+  "menos de 12 horas" (`p5_sub`) no se toca hasta saber por qué los 6 clics en agendar del
+  histórico tienen 0 citas confirmadas. *No se imprime una promesa que no se sabe si se cumple.*
 
 ## Pendientes
 
